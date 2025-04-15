@@ -1,0 +1,23 @@
+{
+  "name": "simpletimeservice",
+  "version": "1.0.0",
+  "description": "Minimalist Application Development / Docker / Kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruv-Chovatiya/Task-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruv-Chovatiya/Task-1/issues"
+  },
+  "homepage": "https://github.com/Dhruv-Chovatiya/Task-1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
