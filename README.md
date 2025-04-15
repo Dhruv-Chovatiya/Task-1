@@ -41,6 +41,7 @@ app.listen(PORT, () => {
   
  
 📦 Phase 2: Dockerize the Application
+
 ✅ Step 4: Create a Dockerfile
 Dockerfile
 
@@ -66,16 +67,20 @@ EXPOSE 3000
 
 # Run the app
 CMD ["node", "index.js"]
+
 ✅ Step 5: Create .dockerignore
+
 dockerignore
 
 node_modules
 npm-debug.log
 
 🐳 Phase 3: Build & Run Docker Image
+
 ✅ Step 6: Build the image
 
 docker build -t yourdockerhubusername/simpletimeservice .
+
 ✅ Step 7: Run the container
 
 docker run -p 3000:3000 yourdockerhubusername/simpletimeservice
