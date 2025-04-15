@@ -10,12 +10,14 @@ Minimalist Application Development / Docker / Kubernetes
 
 2) Now Make Nord.js project as per requirement..
 
- Phase 1: Develop SimpleTimeService App (Node.js)
+Phase 1: Develop SimpleTimeService App (Node.js)
+
 ✅ Step 1: Set up project folder
-bash
+
 mkdir SimpleTimeService
 cd SimpleTimeService
 npm init -y
+
 ✅ Step 2: Install dependencies
 
 npm install express
