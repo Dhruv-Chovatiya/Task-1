@@ -92,7 +92,7 @@ docker pull dhruvchovatiya63907/simpletimeservice
 
 #Task-2
 
-You can run the 2 command once you are in the Terraform file.
+You can run the below commands once you are in the Terraform folder.
 
 1) terraform init
 2) terraform plan
