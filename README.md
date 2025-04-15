@@ -1,4 +1,4 @@
-# Task-1
+# Task-1 & 2
 Minimalist Application Development / Docker / Kubernetes
 
 
@@ -88,3 +88,13 @@ docker run -p 3000:3000 yourdockerhubusername/simpletimeservice
 For Easy access you can use my final image.
 
 docker pull dhruvchovatiya63907/simpletimeservice
+
+
+#Task-2
+
+You can run the 2 command once you are in the Terraform file.
+
+1) terraform init
+2) terraform plan
+3) terraform apply
+4) terraform destory
